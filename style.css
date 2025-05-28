@@ -1,0 +1,43 @@
+.navbar{
+    /* margin: 10px; */
+    text-align: center;
+    background-color: red;
+    padding: 10px;
+
+}
+.navigation a{
+    text-decoration: none;
+    color: aliceblue;
+    padding-right: 10px;
+    
+}
+.footer{
+margin: 50px;
+background-color: blue;
+color: white
+}
+.one{
+    margin: 10px;
+    background-color: green;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.two{
+    margin: 50px;
+    background-color: rgb(113, 0, 128);
+    text-align: center;
+    padding-bottom: 10px;
+}
+.three{
+    margin: 50px;
+    background-color: green;
+    text-align: center;
+    padding-bottom: 10px;
+}
+.four{
+    margin: 50px;
+    background-color: rgb(128, 58, 0);
+    text-align: center;
+    padding-bottom: 10px;
+}
